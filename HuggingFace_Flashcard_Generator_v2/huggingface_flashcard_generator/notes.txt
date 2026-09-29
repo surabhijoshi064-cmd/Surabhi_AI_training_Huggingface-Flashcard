@@ -1,5 +1,0 @@
-Artificial intelligence enables computers to perform tasks that normally require human intelligence.
-Machine learning is a branch of artificial intelligence that learns patterns from data.
-A neural network is a computing model inspired by the structure of biological neurons.
-Natural language processing helps computers understand and generate human language.
-Transformers use attention mechanisms to process relationships between tokens in a sequence.
